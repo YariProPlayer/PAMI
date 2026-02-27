@@ -1,2 +1,2 @@
 # PAMI
-Para colocar as coisas da aula ne 
+Para colocar as coisas da aula de PAMI
